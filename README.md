@@ -4,10 +4,14 @@
 ---
 
 <h3 align="left">About Me:</h3>
-- 🎓 I am currently in my **third semester** studying **Cyber Security**.  
-- 🔍 My primary focus is on **network security**, **ethical hacking**, and solving **Capture the Flag (CTF)** challenges as part of my academic journey.  
-- 🌱 I am currently preparing for the **AWS Certified Solutions Architect – Associate** certification, expanding my knowledge in **cloud security** and **architecture design**.  
-- 🤝 I am always open to connecting with like-minded individuals and discussing **cybersecurity concepts**.
+<ul>
+  <li>🌟 My ultimate passion is to make a meaningful contribution to the IT world by advancing <b>digital ethics</b> and/or developing <b>sustainable software solutions</b> that improve people's lives. I believe that technology is a powerful tool, not only to solve problems but also to shape a more inclusive and ethical digital future. One day, I hope to work on innovations that promote security, transparency, and accessibility for everyone.</li>
+  <li>🌱 I am currently preparing for the <b>AWS Certified Solutions Architect – Associate</b> certification, expanding my knowledge in <b>cloud security</b> and <b>architecture design</b>.</li>
+  <li>🔍 My primary focus is on <b>cryptocurrency</b>, <b>AI</b>, and solving <b>Capture the Flag (CTF)</b> challenges as part of my academic journey.</li>
+  <li>🎓 I am currently in my <b>third semester</b> studying <b>Cyber Security</b>.</li>
+  <li>🤝 I am always open to connecting with like-minded individuals and discussing <b>cybersecurity concepts</b>, <b>cloud technologies</b>, and innovative solutions in IT.</li>
+  <li>🔗 I'm <b>21 years old</b> and constantly striving to grow both personally and professionally in the IT field.</li>
+</ul>
 
 ---
 
