@@ -14,7 +14,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li><b>Direct & Pragmatic.</b> I'm 21 years old and currently in my third semester studying Corporate & IT Security.</li>
+  <li><b>Direct & Pragmatic.</b> I'm 21 years old and currently in my forth semester studying Corporate & IT Security.</li>
   <li><b>Clear Priorities.</b> My main interests center on CTFs, AI, Cloud Security, and cryptocurrencies. I'm also working toward the <b>AWS Certified Solutions Architect – Associate</b> to acquire practical cloud skills.</li>
   <li><b>Rational & Efficient.</b> I believe in clearly defining problems and implementing targeted solutions, without getting lost in empty promises.</li>
   <li><b>Holistic Mindset.</b> To me, responsible tech development goes hand in hand with an awareness of health, nutrition, and social justice.</li>
