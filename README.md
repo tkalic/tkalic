@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Edwin.</h1>
-<h3 align="center">B.Sc. Corporate & IT Security · HS Offenburg · Internship Oct 2026</h3>
+<h3 align="center">B.Sc. Corporate & IT Security · University of Offenburg</h3>
 
 ---
 
